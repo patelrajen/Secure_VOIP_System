@@ -1,0 +1,6 @@
+tlsenable=yes
+tlsbindaddr=0.0.0.0
+tlscertfile=/etc/asterisk/keys/asterisk.pem
+tlscafile=/etc/asterisk/keys/ca.crt
+tlscipher=ALL
+tlsclientmethod=tlsv

@@ -1,0 +1,30 @@
+2014-05-01 15:27:13,191 fail2ban.server : INFO   Changed logging target to /var/log/fail2ban.log for Fail2ban v0.8.6
+2014-05-01 15:42:40,722 fail2ban.server : INFO   Stopping all jails
+2014-05-01 15:42:40,722 fail2ban.server : INFO   Exiting Fail2ban
+2014-05-01 15:42:41,055 fail2ban.server : INFO   Changed logging target to /var/log/fail2ban.log for Fail2ban v0.8.6
+2014-05-01 15:42:41,055 fail2ban.jail   : INFO   Creating new jail 'asterisk-iptables'
+2014-05-01 15:42:41,057 fail2ban.jail   : INFO   Jail 'asterisk-iptables' uses Gamin
+2014-05-01 15:42:41,123 fail2ban.filter : INFO   Set maxRetry = 5
+2014-05-01 15:42:41,124 fail2ban.filter : INFO   Set findtime = 600
+2014-05-01 15:42:41,125 fail2ban.actions: INFO   Set banTime = 600
+2014-05-01 15:42:41,165 fail2ban.jail   : INFO   Jail 'asterisk-iptables' started
+2014-05-01 15:42:49,843 fail2ban.server : INFO   Stopping all jails
+2014-05-01 15:43:17,272 fail2ban.server : INFO   Changed logging target to /var/log/fail2ban.log for Fail2ban v0.8.6
+2014-05-01 15:43:17,273 fail2ban.jail   : INFO   Creating new jail 'asterisk-iptables'
+2014-05-01 15:43:17,275 fail2ban.jail   : INFO   Jail 'asterisk-iptables' uses Gamin
+2014-05-01 15:43:17,287 fail2ban.filter : INFO   Set maxRetry = 5
+2014-05-01 15:43:17,288 fail2ban.filter : INFO   Set findtime = 600
+2014-05-01 15:43:17,288 fail2ban.actions: INFO   Set banTime = 600
+2014-05-01 15:43:17,317 fail2ban.jail   : INFO   Jail 'asterisk-iptables' started
+2014-05-01 15:43:41,806 fail2ban.actions.action: ERROR  iptables -D INPUT -p all -j fail2ban-ASTERISK
+iptables -F fail2ban-ASTERISK
+iptables -X fail2ban-ASTERISK returned 100
+2014-05-01 15:44:42,437 fail2ban.jail   : INFO   Jail 'asterisk-iptables' stopped
+2014-05-01 15:44:42,438 fail2ban.server : INFO   Exiting Fail2ban
+2014-05-01 15:56:07,098 fail2ban.server : INFO   Stopping all jails
+2014-05-01 15:56:07,676 fail2ban.actions.action: ERROR  iptables -D INPUT -p all -j fail2ban-ASTERISK
+iptables -F fail2ban-ASTERISK
+iptables -X fail2ban-ASTERISK returned 100
+2014-05-01 15:57:08,304 fail2ban.jail   : INFO   Jail 'asterisk-iptables' stopped
+2014-05-01 15:57:08,305 fail2ban.server : ERROR  Unable to remove PID file: [Errno 2] No such file or directory: '/var/run/fail2ban/fail2ban.pid'
+2014-05-01 15:57:08,305 fail2ban.server : INFO   Exiting Fail2ban

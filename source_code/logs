@@ -1,0 +1,782 @@
+[2014-04-26 19:26:28] Asterisk 11.8.1 built by root @ mascot on a x86_64 running Linux on 2014-03-14 15:34:45 UTC
+[2014-04-26 19:28:29] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=edac5012 for SUBSCRIBE
+[2014-04-26 19:28:29] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:28:31] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=1c814913 for SUBSCRIBE
+[2014-04-26 19:28:31] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:29:06] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=4d1cce70 for SUBSCRIBE
+[2014-04-26 19:29:06] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:29:31] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=f8ede748 for SUBSCRIBE
+[2014-04-26 19:29:31] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:29:32] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=325d442f for SUBSCRIBE
+[2014-04-26 19:29:32] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:29:40] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=d66b334f for SUBSCRIBE
+[2014-04-26 19:29:40] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:29:41] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=3c964120 for SUBSCRIBE
+[2014-04-26 19:29:41] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:29:42] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=c95d2518 for SUBSCRIBE
+[2014-04-26 19:29:42] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:29:58] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=7f17654c for SUBSCRIBE
+[2014-04-26 19:29:58] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:30:07] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=691ea023 for SUBSCRIBE
+[2014-04-26 19:30:07] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:30:13] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=c8293814 for SUBSCRIBE
+[2014-04-26 19:30:13] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:30:14] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=c0848967 for SUBSCRIBE
+[2014-04-26 19:30:14] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:30:23] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=52dcbb65 for SUBSCRIBE
+[2014-04-26 19:30:23] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:30:56] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=3ad99730 for SUBSCRIBE
+[2014-04-26 19:30:56] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:31:05] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=90fa9b2c for SUBSCRIBE
+[2014-04-26 19:31:05] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:31:32] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-26 19:31:33] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-26 19:32:03] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-26 19:32:04] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-26 19:45:10] Asterisk 11.8.1 built by root @ mascot on a x86_64 running Linux on 2014-03-14 15:34:45 UTC
+[2014-04-26 19:46:07] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=78686306 for SUBSCRIBE
+[2014-04-26 19:46:07] NOTICE[3977] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:46:08] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=509b0c24 for SUBSCRIBE
+[2014-04-26 19:46:08] NOTICE[3977] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:48:05] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=1759a308 for SUBSCRIBE
+[2014-04-26 19:48:05] NOTICE[3977] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:48:05] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=4514e301 for SUBSCRIBE
+[2014-04-26 19:48:05] NOTICE[3977] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:48:06] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=0e2af116 for SUBSCRIBE
+[2014-04-26 19:48:06] NOTICE[3977] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:48:38] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=66307e0b for SUBSCRIBE
+[2014-04-26 19:48:38] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:48:47] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=86fafe22 for SUBSCRIBE
+[2014-04-26 19:48:47] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:48:47] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=f24fa702 for SUBSCRIBE
+[2014-04-26 19:48:47] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:49:01] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=160c1006 for SUBSCRIBE
+[2014-04-26 19:49:01] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:49:02] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=630dd91a for SUBSCRIBE
+[2014-04-26 19:49:02] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:49:06] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-26 19:49:06] NOTICE[3977] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:49:20] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-26 19:49:21] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-26 19:49:21] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-26 19:49:22] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-26 19:49:22] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-26 19:52:33] Asterisk 11.8.1 built by root @ mascot on a x86_64 running Linux on 2014-03-14 15:34:45 UTC
+[2014-04-26 19:54:37] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=fe5c995c for SUBSCRIBE
+[2014-04-26 19:54:37] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:54:39] NOTICE[3977] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:54:39] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:54:56] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=ed944949 for SUBSCRIBE
+[2014-04-26 19:54:56] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:54:57] NOTICE[3977] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:54:57] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:55:08] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-26 19:55:08] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:55:08] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-26 19:55:26] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:55:27] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:55:27] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:55:27] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:55:28] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:55:28] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:55:30] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:55:31] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:55:33] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:55:34] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:55:36] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:55:39] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:55:40] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:55:42] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:55:43] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 19:55:51] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-26 20:17:54] Asterisk 11.8.1 built by root @ mascot on a x86_64 running Linux on 2014-03-14 15:34:45 UTC
+[2014-04-26 20:30:41] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-26 20:30:50] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-26 20:31:50] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-26 20:31:50] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-26 20:32:08] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=12327877 for SUBSCRIBE
+[2014-04-26 20:32:08] NOTICE[3977] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 20:32:09] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=85de1b4b for SUBSCRIBE
+[2014-04-26 20:32:09] NOTICE[3977] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 20:32:10] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=3a124256 for SUBSCRIBE
+[2014-04-26 20:32:10] NOTICE[3977] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 20:32:16] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=7cd8b73d for SUBSCRIBE
+[2014-04-26 20:32:16] NOTICE[3977] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 20:32:21] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=74011660 for SUBSCRIBE
+[2014-04-26 20:32:21] NOTICE[3977] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 20:32:21] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=3dba705b for SUBSCRIBE
+[2014-04-26 20:32:21] NOTICE[3977] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 20:32:22] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=93e4bf72 for SUBSCRIBE
+[2014-04-26 20:32:22] NOTICE[3977] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 20:32:41] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=32026339 for SUBSCRIBE
+[2014-04-26 20:32:41] NOTICE[3977] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 20:32:43] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=926d1908 for SUBSCRIBE
+[2014-04-26 20:32:43] NOTICE[3977] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 20:32:48] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=73c04a1a for SUBSCRIBE
+[2014-04-26 20:32:48] NOTICE[3977] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 20:32:58] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=a714c019 for SUBSCRIBE
+[2014-04-26 20:32:58] NOTICE[3977] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 20:32:58] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=dc1aa03a for SUBSCRIBE
+[2014-04-26 20:32:58] NOTICE[3977] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 20:33:00] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=03eff943 for SUBSCRIBE
+[2014-04-26 20:33:00] NOTICE[3977] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 20:33:05] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=3351275f for SUBSCRIBE
+[2014-04-26 20:33:05] NOTICE[3977] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 20:33:09] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=621aa867 for SUBSCRIBE
+[2014-04-26 20:33:09] NOTICE[3977] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 20:33:10] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=84bd2d0b for SUBSCRIBE
+[2014-04-26 20:33:10] NOTICE[3977] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 20:33:14] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=a3d25659 for SUBSCRIBE
+[2014-04-26 20:33:14] NOTICE[3977] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 20:33:24] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=a0e2a20d for SUBSCRIBE
+[2014-04-26 20:33:24] NOTICE[3977] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 20:33:34] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-26 20:33:34] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-26 21:03:17] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=b0dc2f12 for SUBSCRIBE
+[2014-04-26 21:03:17] NOTICE[3977] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 21:03:25] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=88a48031 for SUBSCRIBE
+[2014-04-26 21:03:25] NOTICE[3977] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 21:03:32] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-26 21:03:32] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-26 21:03:53] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=be2fc15e for SUBSCRIBE
+[2014-04-26 21:03:53] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 21:03:53] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=1d2cd017 for SUBSCRIBE
+[2014-04-26 21:03:53] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 21:03:53] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=e0e2bf36 for SUBSCRIBE
+[2014-04-26 21:03:53] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 21:03:54] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=8924877b for SUBSCRIBE
+[2014-04-26 21:03:54] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 21:03:54] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=bf5fa130 for SUBSCRIBE
+[2014-04-26 21:03:54] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 21:03:55] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=54e3f018 for SUBSCRIBE
+[2014-04-26 21:03:55] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 21:03:55] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=a9b39442 for SUBSCRIBE
+[2014-04-26 21:03:55] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 21:03:55] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=546a6c49 for SUBSCRIBE
+[2014-04-26 21:03:55] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 21:03:56] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=d8dcb03f for SUBSCRIBE
+[2014-04-26 21:03:56] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 21:04:00] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=e6cc7a79 for SUBSCRIBE
+[2014-04-26 21:04:00] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 21:04:02] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=66b38c7c for SUBSCRIBE
+[2014-04-26 21:04:02] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 21:04:04] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=05aeaf50 for SUBSCRIBE
+[2014-04-26 21:04:04] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 21:04:05] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=17c19f3b for SUBSCRIBE
+[2014-04-26 21:04:05] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 21:04:08] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=53c2ac39 for SUBSCRIBE
+[2014-04-26 21:04:08] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 21:04:08] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=e317232f for SUBSCRIBE
+[2014-04-26 21:04:08] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 21:04:11] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=4a797a6b for SUBSCRIBE
+[2014-04-26 21:04:11] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 21:04:12] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=fb42db0b for SUBSCRIBE
+[2014-04-26 21:04:12] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 21:04:12] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=7505b56b for SUBSCRIBE
+[2014-04-26 21:04:12] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 21:04:15] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=26d4ce00 for SUBSCRIBE
+[2014-04-26 21:04:15] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 21:04:21] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=7c22d816 for SUBSCRIBE
+[2014-04-26 21:04:21] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 21:04:21] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=39707e54 for SUBSCRIBE
+[2014-04-26 21:04:21] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 21:04:25] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=0dc39443 for SUBSCRIBE
+[2014-04-26 21:04:25] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 21:04:27] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=21043f67 for SUBSCRIBE
+[2014-04-26 21:04:27] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 21:04:28] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=a937f700 for SUBSCRIBE
+[2014-04-26 21:04:28] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 21:04:28] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=16f2ee3c for SUBSCRIBE
+[2014-04-26 21:04:28] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 21:04:29] NOTICE[3977] chan_sip.c: Failed to authenticate device <sip:7002@192.168.0.4;transport=UDP>;tag=4198462b for SUBSCRIBE
+[2014-04-26 21:04:29] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-26 21:23:38] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-26 22:36:24] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-26 22:36:24] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-26 22:36:59] WARNING[24301][C-00000000] pbx.c: No application 'Playback' for extension (internal, 7002, 3)
+[2014-04-26 22:53:37] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-26 22:54:23] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-26 22:54:28] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-26 22:57:18] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-26 23:18:43] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-26 23:18:44] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-26 23:19:23] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-26 23:19:23] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-26 23:48:06] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-26 23:58:07] WARNING[3977] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[2014-04-26 23:58:27] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-26 23:58:34] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-26 23:59:24] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-26 23:59:24] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-27 00:00:03] WARNING[3977][C-00000004] chan_sip.c: Matched device setup to use SRTP, but request was not!
+[2014-04-27 00:00:16] WARNING[3977][C-00000005] chan_sip.c: Matched device setup to use SRTP, but request was not!
+[2014-04-27 00:03:11] WARNING[3977][C-00000006] chan_sip.c: Matched device setup to use SRTP, but request was not!
+[2014-04-27 00:03:34] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-27 00:03:54] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-27 00:04:00] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-27 00:04:09] WARNING[3977][C-00000007] chan_sip.c: Matched device setup to use SRTP, but request was not!
+[2014-04-27 00:04:43] WARNING[3977] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[2014-04-27 00:04:53] WARNING[3977][C-00000008] chan_sip.c: Matched device setup to use SRTP, but request was not!
+[2014-04-27 00:05:41] WARNING[3977] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[2014-04-27 00:05:50] WARNING[27767][C-00000009] pbx.c: No application 'Playback' for extension (internal, 7001, 3)
+[2014-04-27 00:10:52] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-27 00:11:34] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-27 00:13:04] NOTICE[3977] chan_sip.c: Registration from '"7002" <sip:7002@192.168.0.4>' failed for '192.168.0.4:55525' - Wrong password
+[2014-04-27 00:13:09] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-27 00:14:04] WARNING[3977][C-0000000c] chan_sip.c: Ignoring video stream offer because port number is zero
+[2014-04-27 00:15:51] NOTICE[3977] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-27 00:21:39] WARNING[3977][C-0000000d] chan_sip.c: Ignoring video stream offer because port number is zero
+[2014-04-27 00:23:05] WARNING[3977][C-0000000e] chan_sip.c: Ignoring video stream offer because port number is zero
+[2014-04-27 00:30:17] WARNING[3977] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[2014-04-27 00:30:18] VERBOSE[3977] tcptls.c: SSL certificate ok
+[2014-04-27 00:30:18] ERROR[3977] tcptls.c: Unable to bind SIP TLS server to 0.0.0.0:5061: Address already in use
+[2014-04-27 00:30:18] ERROR[3977] chan_sip.c: TLS Server start failed. Not listening on TLS socket.
+[2014-04-27 00:31:09] ERROR[3977] chan_sip.c: 'UDP' is not a valid transport for '7002'. we only use 'TLS'! ending call.
+[2014-04-27 00:31:09] NOTICE[3977] chan_sip.c: Registration from '"7002" <sip:7002@192.168.0.4>' failed for '192.168.0.4:55525' - Device not configured to use this transport type
+[2014-04-27 00:33:51] ERROR[3977] chan_sip.c: 'UDP' is not a valid transport for '7001'. we only use 'TLS'! ending call.
+[2014-04-27 00:33:51] NOTICE[3977] chan_sip.c: Registration from '"7001" <sip:7001@192.168.0.4>' failed for '192.168.0.4:55525' - Device not configured to use this transport type
+[2014-04-27 14:09:32] ERROR[3977] chan_sip.c: 'UDP' is not a valid transport for '7002'. we only use 'TLS'! ending call.
+[2014-04-27 14:09:32] NOTICE[3977] chan_sip.c: Registration from '<sip:7002@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Device not configured to use this transport type
+[2014-04-27 14:09:36] ERROR[3977] chan_sip.c: 'UDP' is not a valid transport for '7001'. we only use 'TLS'! ending call.
+[2014-04-27 14:09:36] NOTICE[3977] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Device not configured to use this transport type
+[2014-04-27 14:11:03] WARNING[3977] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[2014-04-27 14:11:19] Asterisk 11.8.1 built by root @ mascot on a x86_64 running Linux on 2014-03-14 15:34:45 UTC
+[2014-04-27 14:11:19] NOTICE[13876] cdr.c: CDR simple logging enabled.
+[2014-04-27 14:11:19] NOTICE[13876] loader.c: 195 modules will be loaded.
+[2014-04-27 14:11:21] NOTICE[13876] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[2014-04-27 14:11:21] NOTICE[13876] config.c: Registered Config Engine sqlite3
+[2014-04-27 14:11:21] WARNING[13876] chan_dahdi.c: Ignoring any changes to 'userbase' (on reload) at line 23.
+[2014-04-27 14:11:21] WARNING[13876] chan_dahdi.c: Ignoring any changes to 'vmsecret' (on reload) at line 31.
+[2014-04-27 14:11:21] WARNING[13876] chan_dahdi.c: Ignoring any changes to 'hassip' (on reload) at line 35.
+[2014-04-27 14:11:21] WARNING[13876] chan_dahdi.c: Ignoring any changes to 'hasiax' (on reload) at line 39.
+[2014-04-27 14:11:21] WARNING[13876] chan_dahdi.c: Ignoring any changes to 'hasmanager' (on reload) at line 47.
+[2014-04-27 14:11:21] NOTICE[13876] chan_skinny.c: Configuring skinny from skinny.conf
+[2014-04-27 14:11:21] VERBOSE[13876] chan_sip.c: SIP channel loading...
+[2014-04-27 14:11:21] WARNING[13876] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[2014-04-27 14:11:21] NOTICE[13876] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[2014-04-27 14:11:21] NOTICE[13876] pbx_ael.c: Starting AEL load process.
+[2014-04-27 14:11:21] NOTICE[13876] pbx_ael.c: AEL load process: parsed config file name '/etc/asterisk/extensions.ael'.
+[2014-04-27 14:11:21] NOTICE[13876] pbx_ael.c: AEL load process: checked config file name '/etc/asterisk/extensions.ael'.
+[2014-04-27 14:11:21] NOTICE[13876] pbx_ael.c: AEL load process: compiled config file name '/etc/asterisk/extensions.ael'.
+[2014-04-27 14:11:21] NOTICE[13876] pbx_ael.c: AEL load process: merged config file name '/etc/asterisk/extensions.ael'.
+[2014-04-27 14:11:21] NOTICE[13876] pbx_ael.c: AEL load process: verified config file name '/etc/asterisk/extensions.ael'.
+[2014-04-27 14:11:21] VERBOSE[13876] asterisk.c: Asterisk Ready.
+[2014-04-27 14:11:28] NOTICE[13893] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-27 14:11:36] NOTICE[13893] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-27 14:12:48] NOTICE[13893] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-27 14:12:54] NOTICE[13893] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-27 14:13:44] WARNING[13893][C-00000000] chan_sip.c: Ignoring video stream offer because port number is zero
+[2014-04-27 14:13:51] WARNING[14315][C-00000001] app_voicemail.c: No entry in voicemail config file for '7001'
+[2014-04-27 14:14:17] WARNING[14385][C-00000002] app_voicemail.c: No entry in voicemail config file for '7001'
+[2014-04-27 14:14:35] NOTICE[13893] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-27 14:18:02] NOTICE[13893] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-27 14:18:21] NOTICE[13893] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-27 14:18:25] NOTICE[13893] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-27 14:19:20] WARNING[14540][C-00000006] app_dial.c: Unable to create channel of type 'SIP' (cause 20 - Subscriber absent)
+[2014-04-27 14:19:20] WARNING[13893][C-00000006] chan_sip.c: Ignoring video stream offer because port number is zero
+[2014-04-27 14:19:21] WARNING[14602][C-00000007] app_dial.c: Unable to create channel of type 'SIP' (cause 20 - Subscriber absent)
+[2014-04-27 14:19:23] WARNING[14540][C-00000006] app_voicemail.c: No entry in voicemail config file for '7001'
+[2014-04-27 14:19:23] WARNING[14602][C-00000007] app_voicemail.c: No entry in voicemail config file for '7001'
+[2014-04-27 15:14:22] VERBOSE[13876] asterisk.c: Asterisk cleanly ending (0).
+[2014-04-27 15:14:22] VERBOSE[13876] asterisk.c: Executing last minute cleanups
+[2014-04-27 15:16:07] Asterisk 11.8.1 built by root @ mascot on a x86_64 running Linux on 2014-03-14 15:34:45 UTC
+[2014-04-27 15:16:07] NOTICE[2074] cdr.c: CDR simple logging enabled.
+[2014-04-27 15:16:07] NOTICE[2074] loader.c: 195 modules will be loaded.
+[2014-04-27 15:16:12] NOTICE[2074] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[2014-04-27 15:16:12] NOTICE[2074] config.c: Registered Config Engine sqlite3
+[2014-04-27 15:16:12] WARNING[2074] chan_dahdi.c: Ignoring any changes to 'userbase' (on reload) at line 23.
+[2014-04-27 15:16:12] WARNING[2074] chan_dahdi.c: Ignoring any changes to 'vmsecret' (on reload) at line 31.
+[2014-04-27 15:16:12] WARNING[2074] chan_dahdi.c: Ignoring any changes to 'hassip' (on reload) at line 35.
+[2014-04-27 15:16:12] WARNING[2074] chan_dahdi.c: Ignoring any changes to 'hasiax' (on reload) at line 39.
+[2014-04-27 15:16:12] WARNING[2074] chan_dahdi.c: Ignoring any changes to 'hasmanager' (on reload) at line 47.
+[2014-04-27 15:16:12] NOTICE[2074] chan_skinny.c: Configuring skinny from skinny.conf
+[2014-04-27 15:16:12] VERBOSE[2074] chan_sip.c: SIP channel loading...
+[2014-04-27 15:16:12] WARNING[2074] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[2014-04-27 15:16:12] NOTICE[2074] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[2014-04-27 15:16:12] NOTICE[2074] pbx_ael.c: Starting AEL load process.
+[2014-04-27 15:16:12] NOTICE[2074] pbx_ael.c: AEL load process: parsed config file name '/etc/asterisk/extensions.ael'.
+[2014-04-27 15:16:12] NOTICE[2074] pbx_ael.c: AEL load process: checked config file name '/etc/asterisk/extensions.ael'.
+[2014-04-27 15:16:12] NOTICE[2074] pbx_ael.c: AEL load process: compiled config file name '/etc/asterisk/extensions.ael'.
+[2014-04-27 15:16:12] NOTICE[2074] pbx_ael.c: AEL load process: merged config file name '/etc/asterisk/extensions.ael'.
+[2014-04-27 15:16:12] NOTICE[2074] pbx_ael.c: AEL load process: verified config file name '/etc/asterisk/extensions.ael'.
+[2014-04-27 15:16:12] VERBOSE[2074] asterisk.c: Asterisk Ready.
+[2014-04-27 17:26:47] WARNING[2211] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[2014-04-27 17:27:19] NOTICE[2211] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-27 17:27:19] NOTICE[2211] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-27 17:27:40] NOTICE[2211] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-27 17:27:40] NOTICE[2211] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-27 17:28:22] NOTICE[2211] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-27 17:28:38] NOTICE[2211] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-27 17:28:38] NOTICE[2211] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-27 17:37:15] VERBOSE[2074] asterisk.c: Asterisk cleanly ending (0).
+[2014-04-27 17:37:15] VERBOSE[2074] asterisk.c: Executing last minute cleanups
+[2014-04-27 17:40:00] Asterisk 11.8.1 built by root @ mascot on a x86_64 running Linux on 2014-03-14 15:34:45 UTC
+[2014-04-27 17:40:00] NOTICE[2575] cdr.c: CDR simple logging enabled.
+[2014-04-27 17:40:00] NOTICE[2575] loader.c: 195 modules will be loaded.
+[2014-04-27 17:40:09] NOTICE[2575] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[2014-04-27 17:40:09] NOTICE[2575] config.c: Registered Config Engine sqlite3
+[2014-04-27 17:40:09] WARNING[2575] chan_dahdi.c: Ignoring any changes to 'userbase' (on reload) at line 23.
+[2014-04-27 17:40:09] WARNING[2575] chan_dahdi.c: Ignoring any changes to 'vmsecret' (on reload) at line 31.
+[2014-04-27 17:40:09] WARNING[2575] chan_dahdi.c: Ignoring any changes to 'hassip' (on reload) at line 35.
+[2014-04-27 17:40:09] WARNING[2575] chan_dahdi.c: Ignoring any changes to 'hasiax' (on reload) at line 39.
+[2014-04-27 17:40:09] WARNING[2575] chan_dahdi.c: Ignoring any changes to 'hasmanager' (on reload) at line 47.
+[2014-04-27 17:40:09] NOTICE[2575] chan_skinny.c: Configuring skinny from skinny.conf
+[2014-04-27 17:40:09] VERBOSE[2575] chan_sip.c: SIP channel loading...
+[2014-04-27 17:40:09] WARNING[2575] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[2014-04-27 17:40:09] NOTICE[2575] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[2014-04-27 17:40:10] NOTICE[2575] pbx_ael.c: Starting AEL load process.
+[2014-04-27 17:40:10] NOTICE[2575] pbx_ael.c: AEL load process: parsed config file name '/etc/asterisk/extensions.ael'.
+[2014-04-27 17:40:10] NOTICE[2575] pbx_ael.c: AEL load process: checked config file name '/etc/asterisk/extensions.ael'.
+[2014-04-27 17:40:10] NOTICE[2575] pbx_ael.c: AEL load process: compiled config file name '/etc/asterisk/extensions.ael'.
+[2014-04-27 17:40:10] NOTICE[2575] pbx_ael.c: AEL load process: merged config file name '/etc/asterisk/extensions.ael'.
+[2014-04-27 17:40:10] NOTICE[2575] pbx_ael.c: AEL load process: verified config file name '/etc/asterisk/extensions.ael'.
+[2014-04-27 17:40:10] VERBOSE[2575] asterisk.c: Asterisk Ready.
+[2014-04-27 17:59:33] NOTICE[2741] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-27 17:59:33] NOTICE[2741] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-27 17:59:53] NOTICE[2741] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-27 18:07:51] NOTICE[2741] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-27 18:07:52] NOTICE[2741] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-27 18:08:06] WARNING[2741] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[2014-04-27 18:08:27] NOTICE[2741] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-27 18:09:14] NOTICE[2741] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-27 18:11:47] NOTICE[2741] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-27 18:47:09] WARNING[2741] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[2014-04-27 18:48:26] NOTICE[2741] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-27 18:49:17] NOTICE[2741] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-27 18:51:30] NOTICE[2741] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-27 19:00:19] NOTICE[2741] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-27 19:00:36] NOTICE[2741] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-27 19:01:26] WARNING[5905][C-00000003] app_voicemail.c: No entry in voicemail config file for '7001'
+[2014-04-27 19:03:59] NOTICE[2741] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-27 19:08:53] NOTICE[2741] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-27 19:11:10] NOTICE[2741] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-27 19:40:59] VERBOSE[2575] asterisk.c: Asterisk cleanly ending (0).
+[2014-04-27 19:40:59] VERBOSE[2575] asterisk.c: Executing last minute cleanups
+[2014-04-27 19:43:43] Asterisk 11.8.1 built by root @ mascot on a x86_64 running Linux on 2014-03-14 15:34:45 UTC
+[2014-04-27 19:43:44] NOTICE[2055] cdr.c: CDR simple logging enabled.
+[2014-04-27 19:43:44] NOTICE[2055] loader.c: 195 modules will be loaded.
+[2014-04-27 19:43:49] NOTICE[2055] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[2014-04-27 19:43:49] NOTICE[2055] config.c: Registered Config Engine sqlite3
+[2014-04-27 19:43:49] WARNING[2055] chan_dahdi.c: Ignoring any changes to 'userbase' (on reload) at line 23.
+[2014-04-27 19:43:49] WARNING[2055] chan_dahdi.c: Ignoring any changes to 'vmsecret' (on reload) at line 31.
+[2014-04-27 19:43:49] WARNING[2055] chan_dahdi.c: Ignoring any changes to 'hassip' (on reload) at line 35.
+[2014-04-27 19:43:49] WARNING[2055] chan_dahdi.c: Ignoring any changes to 'hasiax' (on reload) at line 39.
+[2014-04-27 19:43:49] WARNING[2055] chan_dahdi.c: Ignoring any changes to 'hasmanager' (on reload) at line 47.
+[2014-04-27 19:43:49] NOTICE[2055] chan_skinny.c: Configuring skinny from skinny.conf
+[2014-04-27 19:43:49] VERBOSE[2055] chan_sip.c: SIP channel loading...
+[2014-04-27 19:43:49] WARNING[2055] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[2014-04-27 19:43:49] NOTICE[2055] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[2014-04-27 19:43:50] NOTICE[2055] pbx_ael.c: Starting AEL load process.
+[2014-04-27 19:43:50] NOTICE[2055] pbx_ael.c: AEL load process: parsed config file name '/etc/asterisk/extensions.ael'.
+[2014-04-27 19:43:50] NOTICE[2055] pbx_ael.c: AEL load process: checked config file name '/etc/asterisk/extensions.ael'.
+[2014-04-27 19:43:50] NOTICE[2055] pbx_ael.c: AEL load process: compiled config file name '/etc/asterisk/extensions.ael'.
+[2014-04-27 19:43:50] NOTICE[2055] pbx_ael.c: AEL load process: merged config file name '/etc/asterisk/extensions.ael'.
+[2014-04-27 19:43:50] NOTICE[2055] pbx_ael.c: AEL load process: verified config file name '/etc/asterisk/extensions.ael'.
+[2014-04-27 19:43:50] VERBOSE[2055] asterisk.c: Asterisk Ready.
+[2014-04-27 20:28:28] VERBOSE[2055] asterisk.c: Asterisk cleanly ending (0).
+[2014-04-27 20:28:28] VERBOSE[2055] asterisk.c: Executing last minute cleanups
+[2014-04-28 01:32:44] Asterisk 11.8.1 built by root @ mascot on a x86_64 running Linux on 2014-03-14 15:34:45 UTC
+[2014-04-28 01:32:45] NOTICE[2012] cdr.c: CDR simple logging enabled.
+[2014-04-28 01:32:45] NOTICE[2012] loader.c: 195 modules will be loaded.
+[2014-04-28 01:32:50] NOTICE[2012] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[2014-04-28 01:32:50] NOTICE[2012] config.c: Registered Config Engine sqlite3
+[2014-04-28 01:32:50] WARNING[2012] chan_dahdi.c: Ignoring any changes to 'userbase' (on reload) at line 23.
+[2014-04-28 01:32:50] WARNING[2012] chan_dahdi.c: Ignoring any changes to 'vmsecret' (on reload) at line 31.
+[2014-04-28 01:32:50] WARNING[2012] chan_dahdi.c: Ignoring any changes to 'hassip' (on reload) at line 35.
+[2014-04-28 01:32:50] WARNING[2012] chan_dahdi.c: Ignoring any changes to 'hasiax' (on reload) at line 39.
+[2014-04-28 01:32:50] WARNING[2012] chan_dahdi.c: Ignoring any changes to 'hasmanager' (on reload) at line 47.
+[2014-04-28 01:32:50] NOTICE[2012] chan_skinny.c: Configuring skinny from skinny.conf
+[2014-04-28 01:32:50] VERBOSE[2012] chan_sip.c: SIP channel loading...
+[2014-04-28 01:32:50] WARNING[2012] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[2014-04-28 01:32:50] NOTICE[2012] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[2014-04-28 01:32:50] NOTICE[2012] pbx_ael.c: Starting AEL load process.
+[2014-04-28 01:32:50] NOTICE[2012] pbx_ael.c: AEL load process: parsed config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 01:32:50] NOTICE[2012] pbx_ael.c: AEL load process: checked config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 01:32:50] NOTICE[2012] pbx_ael.c: AEL load process: compiled config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 01:32:50] NOTICE[2012] pbx_ael.c: AEL load process: merged config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 01:32:50] NOTICE[2012] pbx_ael.c: AEL load process: verified config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 01:32:50] VERBOSE[2012] asterisk.c: Asterisk Ready.
+[2014-04-28 01:35:45] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:35:48] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:36:20] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-28 01:37:47] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:38:09] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:38:41] WARNING[2151][C-00000000] chan_sip.c: Matched device setup to use SRTP, but request was not!
+[2014-04-28 01:39:29] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:39:43] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-28 01:40:16] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:40:55] WARNING[2151][C-00000001] chan_sip.c: Matched device setup to use SRTP, but request was not!
+[2014-04-28 01:41:16] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:41:25] ERROR[2151][C-00000002] chan_sip.c: No SRTP module loaded, can't setup SRTP session.
+[2014-04-28 01:41:25] ERROR[2151][C-00000002] chan_sip.c: No SRTP module loaded, can't setup SRTP session.
+[2014-04-28 01:41:25] WARNING[2151][C-00000002] chan_sip.c: Matched device setup to use SRTP, but request was not!
+[2014-04-28 01:42:11] ERROR[2151][C-00000003] chan_sip.c: No SRTP module loaded, can't setup SRTP session.
+[2014-04-28 01:42:11] ERROR[2151][C-00000003] chan_sip.c: No SRTP module loaded, can't setup SRTP session.
+[2014-04-28 01:42:11] WARNING[2151][C-00000003] chan_sip.c: Matched device setup to use SRTP, but request was not!
+[2014-04-28 01:42:28] WARNING[2151] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[2014-04-28 01:42:38] ERROR[2151][C-00000004] chan_sip.c: No SRTP module loaded, can't setup SRTP session.
+[2014-04-28 01:42:38] ERROR[2151][C-00000004] chan_sip.c: No SRTP module loaded, can't setup SRTP session.
+[2014-04-28 01:43:05] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:43:29] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:43:32] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:43:33] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:43:35] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:43:35] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:44:03] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-28 01:44:15] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:44:15] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:44:15] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:44:20] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:44:20] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:44:21] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:44:22] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:44:22] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:44:23] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:44:24] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:44:32] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:44:36] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:45:06] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:45:06] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:45:06] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:45:06] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:45:06] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:45:06] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:45:07] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:45:09] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:45:09] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:45:10] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:45:11] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:45:50] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:45:51] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:45:59] ERROR[2151][C-00000005] chan_sip.c: No SRTP module loaded, can't setup SRTP session.
+[2014-04-28 01:45:59] ERROR[2151][C-00000005] chan_sip.c: No SRTP module loaded, can't setup SRTP session.
+[2014-04-28 01:46:04] WARNING[3377][C-00000005] app_voicemail.c: No entry in voicemail config file for '7002'
+[2014-04-28 01:47:29] ERROR[2151][C-00000006] chan_sip.c: No SRTP module loaded, can't setup SRTP session.
+[2014-04-28 01:47:29] ERROR[2151][C-00000006] chan_sip.c: No SRTP module loaded, can't setup SRTP session.
+[2014-04-28 01:48:17] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:48:23] ERROR[2151][C-00000007] chan_sip.c: No SRTP module loaded, can't setup SRTP session.
+[2014-04-28 01:48:23] ERROR[2151][C-00000007] chan_sip.c: No SRTP module loaded, can't setup SRTP session.
+[2014-04-28 01:51:13] ERROR[2151][C-00000008] chan_sip.c: No SRTP module loaded, can't setup SRTP session.
+[2014-04-28 01:51:13] ERROR[2151][C-00000008] chan_sip.c: No SRTP module loaded, can't setup SRTP session.
+[2014-04-28 01:51:15] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:51:40] ERROR[2151][C-00000008] chan_sip.c: No SRTP module loaded, can't setup SRTP session.
+[2014-04-28 01:51:40] ERROR[2151][C-00000008] chan_sip.c: No SRTP module loaded, can't setup SRTP session.
+[2014-04-28 01:53:42] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:53:51] ERROR[2151][C-00000009] chan_sip.c: No SRTP module loaded, can't setup SRTP session.
+[2014-04-28 01:53:51] ERROR[2151][C-00000009] chan_sip.c: No SRTP module loaded, can't setup SRTP session.
+[2014-04-28 01:54:31] ERROR[2151][C-0000000a] chan_sip.c: No SRTP module loaded, can't setup SRTP session.
+[2014-04-28 01:54:31] ERROR[2151][C-0000000a] chan_sip.c: No SRTP module loaded, can't setup SRTP session.
+[2014-04-28 01:55:08] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:57:11] WARNING[2151] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[2014-04-28 01:58:02] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:58:10] ERROR[2151][C-0000000b] chan_sip.c: No SRTP module loaded, can't setup SRTP session.
+[2014-04-28 01:58:10] ERROR[2151][C-0000000b] chan_sip.c: No SRTP module loaded, can't setup SRTP session.
+[2014-04-28 01:58:10] WARNING[2151][C-0000000b] chan_sip.c: Matched device setup to use SRTP, but request was not!
+[2014-04-28 01:58:15] WARNING[2151][C-0000000c] chan_sip.c: Matched device setup to use SRTP, but request was not!
+[2014-04-28 01:59:12] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:59:38] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 01:59:58] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 02:01:22] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 02:03:03] NOTICE[2151] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 02:10:31] WARNING[2151] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[2014-04-28 02:18:30] WARNING[2151] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[2014-04-28 02:18:47] VERBOSE[5338] asterisk.c: Asterisk cleanly ending (0).
+[2014-04-28 02:18:47] VERBOSE[5338] asterisk.c: Executing last minute cleanups
+[2014-04-28 02:18:47] VERBOSE[5338] asterisk.c: Preparing for Asterisk restart...
+[2014-04-28 02:18:47] VERBOSE[5338] asterisk.c: Asterisk is now restarting...
+[2014-04-28 02:18:47] Asterisk 11.8.1 built by root @ mascot on a x86_64 running Linux on 2014-03-14 15:34:45 UTC
+[2014-04-28 02:18:47] NOTICE[5383] cdr.c: CDR simple logging enabled.
+[2014-04-28 02:18:47] NOTICE[5383] loader.c: 195 modules will be loaded.
+[2014-04-28 02:18:47] NOTICE[5383] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[2014-04-28 02:18:47] NOTICE[5383] config.c: Registered Config Engine sqlite3
+[2014-04-28 02:18:47] WARNING[5383] chan_dahdi.c: Ignoring any changes to 'userbase' (on reload) at line 23.
+[2014-04-28 02:18:47] WARNING[5383] chan_dahdi.c: Ignoring any changes to 'vmsecret' (on reload) at line 31.
+[2014-04-28 02:18:47] WARNING[5383] chan_dahdi.c: Ignoring any changes to 'hassip' (on reload) at line 35.
+[2014-04-28 02:18:47] WARNING[5383] chan_dahdi.c: Ignoring any changes to 'hasiax' (on reload) at line 39.
+[2014-04-28 02:18:47] WARNING[5383] chan_dahdi.c: Ignoring any changes to 'hasmanager' (on reload) at line 47.
+[2014-04-28 02:18:47] NOTICE[5383] chan_skinny.c: Configuring skinny from skinny.conf
+[2014-04-28 02:18:47] VERBOSE[5383] chan_sip.c: SIP channel loading...
+[2014-04-28 02:18:47] WARNING[5383] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[2014-04-28 02:18:47] NOTICE[5383] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[2014-04-28 02:18:47] NOTICE[5383] pbx_ael.c: Starting AEL load process.
+[2014-04-28 02:18:47] NOTICE[5383] pbx_ael.c: AEL load process: parsed config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 02:18:47] NOTICE[5383] pbx_ael.c: AEL load process: checked config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 02:18:47] NOTICE[5383] pbx_ael.c: AEL load process: compiled config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 02:18:47] NOTICE[5383] pbx_ael.c: AEL load process: merged config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 02:18:47] NOTICE[5383] pbx_ael.c: AEL load process: verified config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 02:18:47] VERBOSE[5383] asterisk.c: Asterisk Ready.
+[2014-04-28 02:20:43] VERBOSE[5383] asterisk.c: Asterisk cleanly ending (0).
+[2014-04-28 02:20:43] VERBOSE[5383] asterisk.c: Executing last minute cleanups
+[2014-04-28 02:23:24] Asterisk 11.8.1 built by root @ mascot on a x86_64 running Linux on 2014-03-14 15:34:45 UTC
+[2014-04-28 02:23:25] NOTICE[2622] cdr.c: CDR simple logging enabled.
+[2014-04-28 02:23:25] NOTICE[2622] loader.c: 195 modules will be loaded.
+[2014-04-28 02:23:29] NOTICE[2622] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[2014-04-28 02:23:29] NOTICE[2622] config.c: Registered Config Engine sqlite3
+[2014-04-28 02:23:30] WARNING[2622] chan_dahdi.c: Ignoring any changes to 'userbase' (on reload) at line 23.
+[2014-04-28 02:23:30] WARNING[2622] chan_dahdi.c: Ignoring any changes to 'vmsecret' (on reload) at line 31.
+[2014-04-28 02:23:30] WARNING[2622] chan_dahdi.c: Ignoring any changes to 'hassip' (on reload) at line 35.
+[2014-04-28 02:23:30] WARNING[2622] chan_dahdi.c: Ignoring any changes to 'hasiax' (on reload) at line 39.
+[2014-04-28 02:23:30] WARNING[2622] chan_dahdi.c: Ignoring any changes to 'hasmanager' (on reload) at line 47.
+[2014-04-28 02:23:30] NOTICE[2622] chan_skinny.c: Configuring skinny from skinny.conf
+[2014-04-28 02:23:30] VERBOSE[2622] chan_sip.c: SIP channel loading...
+[2014-04-28 02:23:30] WARNING[2622] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[2014-04-28 02:23:30] NOTICE[2622] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[2014-04-28 02:23:30] NOTICE[2622] pbx_ael.c: Starting AEL load process.
+[2014-04-28 02:23:30] NOTICE[2622] pbx_ael.c: AEL load process: parsed config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 02:23:30] NOTICE[2622] pbx_ael.c: AEL load process: checked config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 02:23:30] NOTICE[2622] pbx_ael.c: AEL load process: compiled config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 02:23:30] NOTICE[2622] pbx_ael.c: AEL load process: merged config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 02:23:30] NOTICE[2622] pbx_ael.c: AEL load process: verified config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 02:23:30] VERBOSE[2622] asterisk.c: Asterisk Ready.
+[2014-04-28 02:25:49] NOTICE[2767] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 02:26:21] NOTICE[2767] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-28 02:26:36] WARNING[2767][C-00000000] chan_sip.c: Matched device setup to use SRTP, but request was not!
+[2014-04-28 02:26:56] WARNING[2767][C-00000001] chan_sip.c: Matched device setup to use SRTP, but request was not!
+[2014-04-28 02:27:13] WARNING[2767][C-00000002] chan_sip.c: Matched device setup to use SRTP, but request was not!
+[2014-04-28 02:29:32] WARNING[2767] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[2014-04-28 02:29:48] VERBOSE[3299] asterisk.c: Asterisk cleanly ending (0).
+[2014-04-28 02:29:48] VERBOSE[3299] asterisk.c: Executing last minute cleanups
+[2014-04-28 02:29:48] VERBOSE[3299] asterisk.c: Preparing for Asterisk restart...
+[2014-04-28 02:29:48] VERBOSE[3299] asterisk.c: Asterisk is now restarting...
+[2014-04-28 02:29:48] Asterisk 11.8.1 built by root @ mascot on a x86_64 running Linux on 2014-03-14 15:34:45 UTC
+[2014-04-28 02:29:48] NOTICE[3302] cdr.c: CDR simple logging enabled.
+[2014-04-28 02:29:48] NOTICE[3302] loader.c: 195 modules will be loaded.
+[2014-04-28 02:29:48] NOTICE[3302] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[2014-04-28 02:29:48] NOTICE[3302] config.c: Registered Config Engine sqlite3
+[2014-04-28 02:29:48] WARNING[3302] chan_dahdi.c: Ignoring any changes to 'userbase' (on reload) at line 23.
+[2014-04-28 02:29:48] WARNING[3302] chan_dahdi.c: Ignoring any changes to 'vmsecret' (on reload) at line 31.
+[2014-04-28 02:29:48] WARNING[3302] chan_dahdi.c: Ignoring any changes to 'hassip' (on reload) at line 35.
+[2014-04-28 02:29:48] WARNING[3302] chan_dahdi.c: Ignoring any changes to 'hasiax' (on reload) at line 39.
+[2014-04-28 02:29:48] WARNING[3302] chan_dahdi.c: Ignoring any changes to 'hasmanager' (on reload) at line 47.
+[2014-04-28 02:29:48] NOTICE[3302] chan_skinny.c: Configuring skinny from skinny.conf
+[2014-04-28 02:29:48] VERBOSE[3302] chan_sip.c: SIP channel loading...
+[2014-04-28 02:29:48] WARNING[3302] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[2014-04-28 02:29:48] NOTICE[3302] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[2014-04-28 02:29:48] NOTICE[3302] pbx_ael.c: Starting AEL load process.
+[2014-04-28 02:29:48] NOTICE[3302] pbx_ael.c: AEL load process: parsed config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 02:29:48] NOTICE[3302] pbx_ael.c: AEL load process: checked config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 02:29:48] NOTICE[3302] pbx_ael.c: AEL load process: compiled config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 02:29:48] NOTICE[3302] pbx_ael.c: AEL load process: merged config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 02:29:48] NOTICE[3302] pbx_ael.c: AEL load process: verified config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 02:29:48] VERBOSE[3302] asterisk.c: Asterisk Ready.
+[2014-04-28 02:29:57] WARNING[3319][C-00000000] chan_sip.c: Matched device setup to use SRTP, but request was not!
+[2014-04-28 02:31:40] NOTICE[3319] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 02:31:53] NOTICE[3319] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-28 02:32:23] ERROR[3319][C-00000001] chan_sip.c: No SRTP module loaded, can't setup SRTP session.
+[2014-04-28 02:32:23] ERROR[3319][C-00000001] chan_sip.c: No SRTP module loaded, can't setup SRTP session.
+[2014-04-28 02:32:23] WARNING[3319][C-00000001] chan_sip.c: Matched device setup to use SRTP, but request was not!
+[2014-04-28 02:32:28] ERROR[3319][C-00000002] chan_sip.c: No SRTP module loaded, can't setup SRTP session.
+[2014-04-28 02:32:28] ERROR[3319][C-00000002] chan_sip.c: No SRTP module loaded, can't setup SRTP session.
+[2014-04-28 02:32:28] WARNING[3319][C-00000002] chan_sip.c: Matched device setup to use SRTP, but request was not!
+[2014-04-28 02:32:36] WARNING[3319][C-00000003] chan_sip.c: Matched device setup to use SRTP, but request was not!
+[2014-04-28 02:33:32] NOTICE[3319] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 02:35:28] WARNING[3319] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[2014-04-28 02:35:32] NOTICE[3319] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 02:35:37] VERBOSE[3684] asterisk.c: Asterisk cleanly ending (0).
+[2014-04-28 02:35:37] VERBOSE[3684] asterisk.c: Executing last minute cleanups
+[2014-04-28 02:35:37] VERBOSE[3684] asterisk.c: Preparing for Asterisk restart...
+[2014-04-28 02:35:37] VERBOSE[3684] asterisk.c: Asterisk is now restarting...
+[2014-04-28 02:35:37] Asterisk 11.8.1 built by root @ mascot on a x86_64 running Linux on 2014-03-14 15:34:45 UTC
+[2014-04-28 02:35:37] NOTICE[3685] cdr.c: CDR simple logging enabled.
+[2014-04-28 02:35:37] NOTICE[3685] loader.c: 195 modules will be loaded.
+[2014-04-28 02:35:37] NOTICE[3685] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[2014-04-28 02:35:37] NOTICE[3685] config.c: Registered Config Engine sqlite3
+[2014-04-28 02:35:37] WARNING[3685] chan_dahdi.c: Ignoring any changes to 'userbase' (on reload) at line 23.
+[2014-04-28 02:35:37] WARNING[3685] chan_dahdi.c: Ignoring any changes to 'vmsecret' (on reload) at line 31.
+[2014-04-28 02:35:37] WARNING[3685] chan_dahdi.c: Ignoring any changes to 'hassip' (on reload) at line 35.
+[2014-04-28 02:35:37] WARNING[3685] chan_dahdi.c: Ignoring any changes to 'hasiax' (on reload) at line 39.
+[2014-04-28 02:35:37] WARNING[3685] chan_dahdi.c: Ignoring any changes to 'hasmanager' (on reload) at line 47.
+[2014-04-28 02:35:37] NOTICE[3685] chan_skinny.c: Configuring skinny from skinny.conf
+[2014-04-28 02:35:37] VERBOSE[3685] chan_sip.c: SIP channel loading...
+[2014-04-28 02:35:37] WARNING[3685] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[2014-04-28 02:35:37] NOTICE[3685] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[2014-04-28 02:35:37] NOTICE[3685] pbx_ael.c: Starting AEL load process.
+[2014-04-28 02:35:37] NOTICE[3685] pbx_ael.c: AEL load process: parsed config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 02:35:37] NOTICE[3685] pbx_ael.c: AEL load process: checked config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 02:35:37] NOTICE[3685] pbx_ael.c: AEL load process: compiled config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 02:35:37] NOTICE[3685] pbx_ael.c: AEL load process: merged config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 02:35:37] NOTICE[3685] pbx_ael.c: AEL load process: verified config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 02:35:37] VERBOSE[3685] asterisk.c: Asterisk Ready.
+[2014-04-28 02:35:51] ERROR[3702][C-00000000] chan_sip.c: No SRTP module loaded, can't setup SRTP session.
+[2014-04-28 02:35:51] ERROR[3702][C-00000000] chan_sip.c: No SRTP module loaded, can't setup SRTP session.
+[2014-04-28 02:37:12] ERROR[3702][C-00000001] chan_sip.c: No SRTP module loaded, can't setup SRTP session.
+[2014-04-28 02:37:12] ERROR[3702][C-00000001] chan_sip.c: No SRTP module loaded, can't setup SRTP session.
+[2014-04-28 02:37:26] NOTICE[3702] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 02:38:27] NOTICE[3702] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 03:12:25] NOTICE[3702] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 03:12:45] NOTICE[3702] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 03:13:09] WARNING[3702] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[2014-04-28 03:13:24] VERBOSE[6878] asterisk.c: Asterisk cleanly ending (0).
+[2014-04-28 03:13:24] VERBOSE[6878] asterisk.c: Executing last minute cleanups
+[2014-04-28 03:13:24] VERBOSE[6878] asterisk.c: Preparing for Asterisk restart...
+[2014-04-28 03:13:24] VERBOSE[6878] asterisk.c: Asterisk is now restarting...
+[2014-04-28 03:13:24] Asterisk 11.8.1 built by root @ mascot on a x86_64 running Linux on 2014-03-14 15:34:45 UTC
+[2014-04-28 03:13:24] NOTICE[6880] cdr.c: CDR simple logging enabled.
+[2014-04-28 03:13:24] NOTICE[6880] loader.c: 195 modules will be loaded.
+[2014-04-28 03:13:24] NOTICE[6880] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[2014-04-28 03:13:24] NOTICE[6880] config.c: Registered Config Engine sqlite3
+[2014-04-28 03:13:24] WARNING[6880] chan_dahdi.c: Ignoring any changes to 'userbase' (on reload) at line 23.
+[2014-04-28 03:13:24] WARNING[6880] chan_dahdi.c: Ignoring any changes to 'vmsecret' (on reload) at line 31.
+[2014-04-28 03:13:24] WARNING[6880] chan_dahdi.c: Ignoring any changes to 'hassip' (on reload) at line 35.
+[2014-04-28 03:13:24] WARNING[6880] chan_dahdi.c: Ignoring any changes to 'hasiax' (on reload) at line 39.
+[2014-04-28 03:13:24] WARNING[6880] chan_dahdi.c: Ignoring any changes to 'hasmanager' (on reload) at line 47.
+[2014-04-28 03:13:24] NOTICE[6880] chan_skinny.c: Configuring skinny from skinny.conf
+[2014-04-28 03:13:24] VERBOSE[6880] chan_sip.c: SIP channel loading...
+[2014-04-28 03:13:24] WARNING[6880] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[2014-04-28 03:13:24] NOTICE[6880] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[2014-04-28 03:13:24] NOTICE[6880] pbx_ael.c: Starting AEL load process.
+[2014-04-28 03:13:24] NOTICE[6880] pbx_ael.c: AEL load process: parsed config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 03:13:24] NOTICE[6880] pbx_ael.c: AEL load process: checked config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 03:13:24] NOTICE[6880] pbx_ael.c: AEL load process: compiled config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 03:13:24] NOTICE[6880] pbx_ael.c: AEL load process: merged config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 03:13:24] NOTICE[6880] pbx_ael.c: AEL load process: verified config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 03:13:24] VERBOSE[6880] asterisk.c: Asterisk Ready.
+[2014-04-28 03:14:20] NOTICE[6897] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-28 03:14:20] NOTICE[6897] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-28 03:15:04] NOTICE[6897] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 03:15:50] WARNING[6953][C-00000000] app_voicemail.c: No entry in voicemail config file for '7002'
+[2014-04-28 03:19:43] VERBOSE[6880] asterisk.c: Asterisk cleanly ending (0).
+[2014-04-28 03:19:43] VERBOSE[6880] asterisk.c: Executing last minute cleanups
+[2014-04-28 16:42:27] Asterisk 11.8.1 built by root @ mascot on a x86_64 running Linux on 2014-03-14 15:34:45 UTC
+[2014-04-28 16:42:28] NOTICE[2614] cdr.c: CDR simple logging enabled.
+[2014-04-28 16:42:28] NOTICE[2614] loader.c: 195 modules will be loaded.
+[2014-04-28 16:42:32] NOTICE[2614] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[2014-04-28 16:42:32] NOTICE[2614] config.c: Registered Config Engine sqlite3
+[2014-04-28 16:42:32] WARNING[2614] chan_dahdi.c: Ignoring any changes to 'userbase' (on reload) at line 23.
+[2014-04-28 16:42:32] WARNING[2614] chan_dahdi.c: Ignoring any changes to 'vmsecret' (on reload) at line 31.
+[2014-04-28 16:42:32] WARNING[2614] chan_dahdi.c: Ignoring any changes to 'hassip' (on reload) at line 35.
+[2014-04-28 16:42:32] WARNING[2614] chan_dahdi.c: Ignoring any changes to 'hasiax' (on reload) at line 39.
+[2014-04-28 16:42:32] WARNING[2614] chan_dahdi.c: Ignoring any changes to 'hasmanager' (on reload) at line 47.
+[2014-04-28 16:42:32] NOTICE[2614] chan_skinny.c: Configuring skinny from skinny.conf
+[2014-04-28 16:42:32] VERBOSE[2614] chan_sip.c: SIP channel loading...
+[2014-04-28 16:42:32] WARNING[2614] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[2014-04-28 16:42:32] ERROR[2614] netsock.c: Unable to bind to 0.0.0.0:4569: Address already in use
+[2014-04-28 16:42:32] ERROR[2614] chan_iax2.c: Unable to create network socket: Address already in use
+[2014-04-28 16:42:32] NOTICE[2762] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 16:42:32] NOTICE[2614] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[2014-04-28 16:42:33] NOTICE[2614] pbx_ael.c: Starting AEL load process.
+[2014-04-28 16:42:33] NOTICE[2614] pbx_ael.c: AEL load process: parsed config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 16:42:33] NOTICE[2614] pbx_ael.c: AEL load process: checked config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 16:42:33] NOTICE[2614] pbx_ael.c: AEL load process: compiled config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 16:42:33] NOTICE[2614] pbx_ael.c: AEL load process: merged config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 16:42:33] NOTICE[2614] pbx_ael.c: AEL load process: verified config file name '/etc/asterisk/extensions.ael'.
+[2014-04-28 16:42:33] VERBOSE[2614] asterisk.c: Asterisk Ready.
+[2014-04-28 16:42:36] NOTICE[2762] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 16:43:44] NOTICE[2762] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 16:43:44] NOTICE[2762] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 16:44:26] NOTICE[2762] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 16:44:26] NOTICE[2762] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 16:45:17] NOTICE[2762] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 16:46:41] NOTICE[2762] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 16:48:50] NOTICE[2762] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 16:50:38] NOTICE[2762] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 16:53:13] NOTICE[2762] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 16:54:15] WARNING[2762] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[2014-04-28 16:55:48] NOTICE[2762] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 16:56:12] NOTICE[2762] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 16:57:10] NOTICE[2762] chan_sip.c: Received SIP subscribe for peer without mailbox: 7002
+[2014-04-28 16:58:12] NOTICE[2762] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 16:59:27] NOTICE[2762] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 17:01:00] NOTICE[2762] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 17:03:31] NOTICE[2762] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 17:05:04] NOTICE[2762] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 17:06:22] NOTICE[2762] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 17:08:06] NOTICE[2762] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 17:09:50] NOTICE[2762] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 17:11:45] NOTICE[2762] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 17:13:45] NOTICE[2762] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=cab64f33 for SUBSCRIBE
+[2014-04-28 17:13:45] NOTICE[2762] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-28 17:13:45] NOTICE[2762] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=89368e52 for SUBSCRIBE
+[2014-04-28 17:13:45] NOTICE[2762] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-28 17:13:46] NOTICE[2762] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=9344b06d for SUBSCRIBE
+[2014-04-28 17:13:46] NOTICE[2762] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-28 17:13:46] NOTICE[2762] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=61b59f28 for SUBSCRIBE
+[2014-04-28 17:13:46] NOTICE[2762] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-28 17:13:47] NOTICE[2762] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=f6f5b54f for SUBSCRIBE
+[2014-04-28 17:13:47] NOTICE[2762] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-28 17:13:54] NOTICE[2762] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=d9fd064d for SUBSCRIBE
+[2014-04-28 17:13:54] NOTICE[2762] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-28 17:13:59] NOTICE[2762] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=006e1b57 for SUBSCRIBE
+[2014-04-28 17:13:59] NOTICE[2762] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-28 17:14:00] NOTICE[2762] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=3d023718 for SUBSCRIBE
+[2014-04-28 17:14:00] NOTICE[2762] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-28 17:14:01] NOTICE[2762] chan_sip.c: Failed to authenticate device <sip:7001@192.168.0.4;transport=UDP>;tag=4e16fe5f for SUBSCRIBE
+[2014-04-28 17:14:01] NOTICE[2762] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-28 17:14:03] NOTICE[2762] chan_sip.c: Registration from '<sip:7001@192.168.0.4;transport=UDP>' failed for '192.168.0.4:5061' - Wrong password
+[2014-04-28 17:14:06] NOTICE[2762] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 17:15:53] NOTICE[2762] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 17:17:26] NOTICE[2762] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 17:19:14] Asterisk 11.8.1 built by root @ mascot on a x86_64 running Linux on 2014-03-14 15:34:45 UTC
+[2014-04-28 17:19:34] Asterisk 11.8.1 built by root @ mascot on a x86_64 running Linux on 2014-03-14 15:34:45 UTC
+[2014-04-28 17:20:12] NOTICE[2762] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 17:22:31] NOTICE[2762] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 17:25:19] NOTICE[2762] chan_sip.c: Received SIP subscribe for peer without mailbox: 7001
+[2014-04-28 17:55:13] VERBOSE[2614] asterisk.c: Asterisk cleanly ending (0).
+[2014-04-28 17:55:13] VERBOSE[2614] asterisk.c: Executing last minute cleanups
+[2014-04-29 09:42:54] Asterisk 11.8.1 built by root @ mascot on a x86_64 running Linux on 2014-03-14 15:34:45 UTC
+[2014-04-29 09:42:54] NOTICE[2057] cdr.c: CDR simple logging enabled.
+[2014-04-29 09:42:54] NOTICE[2057] loader.c: 195 modules will be loaded.
+[2014-04-29 09:42:58] NOTICE[2057] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[2014-04-29 09:42:58] NOTICE[2057] config.c: Registered Config Engine sqlite3
+[2014-04-29 09:42:58] WARNING[2057] chan_dahdi.c: Ignoring any changes to 'userbase' (on reload) at line 23.
+[2014-04-29 09:42:58] WARNING[2057] chan_dahdi.c: Ignoring any changes to 'vmsecret' (on reload) at line 31.
+[2014-04-29 09:42:58] WARNING[2057] chan_dahdi.c: Ignoring any changes to 'hassip' (on reload) at line 35.
+[2014-04-29 09:42:58] WARNING[2057] chan_dahdi.c: Ignoring any changes to 'hasiax' (on reload) at line 39.
+[2014-04-29 09:42:58] WARNING[2057] chan_dahdi.c: Ignoring any changes to 'hasmanager' (on reload) at line 47.
+[2014-04-29 09:42:58] NOTICE[2057] chan_skinny.c: Configuring skinny from skinny.conf
+[2014-04-29 09:42:58] VERBOSE[2057] chan_sip.c: SIP channel loading...
+[2014-04-29 09:42:58] WARNING[2057] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[2014-04-29 09:42:58] NOTICE[2057] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[2014-04-29 09:42:59] NOTICE[2057] pbx_ael.c: Starting AEL load process.
+[2014-04-29 09:42:59] NOTICE[2057] pbx_ael.c: AEL load process: parsed config file name '/etc/asterisk/extensions.ael'.
+[2014-04-29 09:42:59] NOTICE[2057] pbx_ael.c: AEL load process: checked config file name '/etc/asterisk/extensions.ael'.
+[2014-04-29 09:42:59] NOTICE[2057] pbx_ael.c: AEL load process: compiled config file name '/etc/asterisk/extensions.ael'.
+[2014-04-29 09:42:59] NOTICE[2057] pbx_ael.c: AEL load process: merged config file name '/etc/asterisk/extensions.ael'.
+[2014-04-29 09:42:59] NOTICE[2057] pbx_ael.c: AEL load process: verified config file name '/etc/asterisk/extensions.ael'.
+[2014-04-29 09:42:59] VERBOSE[2057] asterisk.c: Asterisk Ready.
+[2014-04-29 09:51:43] VERBOSE[2057] asterisk.c: Asterisk cleanly ending (0).
+[2014-04-29 09:51:43] VERBOSE[2057] asterisk.c: Executing last minute cleanups
+[2014-04-29 17:55:00] Asterisk 11.8.1 built by root @ mascot on a x86_64 running Linux on 2014-03-14 15:34:45 UTC
+[2014-04-29 17:55:01] NOTICE[2084] cdr.c: CDR simple logging enabled.
+[2014-04-29 17:55:01] NOTICE[2084] loader.c: 195 modules will be loaded.
+[2014-04-29 17:55:06] NOTICE[2084] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[2014-04-29 17:55:06] NOTICE[2084] config.c: Registered Config Engine sqlite3
+[2014-04-29 17:55:06] WARNING[2084] chan_dahdi.c: Ignoring any changes to 'userbase' (on reload) at line 23.
+[2014-04-29 17:55:06] WARNING[2084] chan_dahdi.c: Ignoring any changes to 'vmsecret' (on reload) at line 31.
+[2014-04-29 17:55:06] WARNING[2084] chan_dahdi.c: Ignoring any changes to 'hassip' (on reload) at line 35.
+[2014-04-29 17:55:06] WARNING[2084] chan_dahdi.c: Ignoring any changes to 'hasiax' (on reload) at line 39.
+[2014-04-29 17:55:06] WARNING[2084] chan_dahdi.c: Ignoring any changes to 'hasmanager' (on reload) at line 47.
+[2014-04-29 17:55:06] NOTICE[2084] chan_skinny.c: Configuring skinny from skinny.conf
+[2014-04-29 17:55:06] VERBOSE[2084] chan_sip.c: SIP channel loading...
+[2014-04-29 17:55:06] WARNING[2084] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[2014-04-29 17:55:06] NOTICE[2084] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[2014-04-29 17:55:06] NOTICE[2084] pbx_ael.c: Starting AEL load process.
+[2014-04-29 17:55:06] NOTICE[2084] pbx_ael.c: AEL load process: parsed config file name '/etc/asterisk/extensions.ael'.
+[2014-04-29 17:55:06] NOTICE[2084] pbx_ael.c: AEL load process: checked config file name '/etc/asterisk/extensions.ael'.
+[2014-04-29 17:55:06] NOTICE[2084] pbx_ael.c: AEL load process: compiled config file name '/etc/asterisk/extensions.ael'.
+[2014-04-29 17:55:06] NOTICE[2084] pbx_ael.c: AEL load process: merged config file name '/etc/asterisk/extensions.ael'.
+[2014-04-29 17:55:06] NOTICE[2084] pbx_ael.c: AEL load process: verified config file name '/etc/asterisk/extensions.ael'.
+[2014-04-29 17:55:06] VERBOSE[2084] asterisk.c: Asterisk Ready.
+[2014-04-29 18:03:57] VERBOSE[2084] asterisk.c: Asterisk cleanly ending (0).
+[2014-04-29 18:03:57] VERBOSE[2084] asterisk.c: Executing last minute cleanups
+[2014-04-30 08:23:37] Asterisk 11.8.1 built by root @ mascot on a x86_64 running Linux on 2014-03-14 15:34:45 UTC
+[2014-04-30 08:23:38] NOTICE[2573] cdr.c: CDR simple logging enabled.
+[2014-04-30 08:23:38] NOTICE[2573] loader.c: 195 modules will be loaded.
+[2014-04-30 08:23:42] NOTICE[2573] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[2014-04-30 08:23:43] NOTICE[2573] config.c: Registered Config Engine sqlite3
+[2014-04-30 08:23:43] WARNING[2573] chan_dahdi.c: Ignoring any changes to 'userbase' (on reload) at line 23.
+[2014-04-30 08:23:43] WARNING[2573] chan_dahdi.c: Ignoring any changes to 'vmsecret' (on reload) at line 31.
+[2014-04-30 08:23:43] WARNING[2573] chan_dahdi.c: Ignoring any changes to 'hassip' (on reload) at line 35.
+[2014-04-30 08:23:43] WARNING[2573] chan_dahdi.c: Ignoring any changes to 'hasiax' (on reload) at line 39.
+[2014-04-30 08:23:43] WARNING[2573] chan_dahdi.c: Ignoring any changes to 'hasmanager' (on reload) at line 47.
+[2014-04-30 08:23:43] NOTICE[2573] chan_skinny.c: Configuring skinny from skinny.conf
+[2014-04-30 08:23:43] VERBOSE[2573] chan_sip.c: SIP channel loading...
+[2014-04-30 08:23:43] WARNING[2573] sip/config_parser.c: nat=yes is deprecated, use nat=force_rport,comedia instead
+[2014-04-30 08:23:43] NOTICE[2573] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[2014-04-30 08:23:43] NOTICE[2573] pbx_ael.c: Starting AEL load process.
+[2014-04-30 08:23:43] NOTICE[2573] pbx_ael.c: AEL load process: parsed config file name '/etc/asterisk/extensions.ael'.
+[2014-04-30 08:23:43] NOTICE[2573] pbx_ael.c: AEL load process: checked config file name '/etc/asterisk/extensions.ael'.
+[2014-04-30 08:23:43] NOTICE[2573] pbx_ael.c: AEL load process: compiled config file name '/etc/asterisk/extensions.ael'.
+[2014-04-30 08:23:43] NOTICE[2573] pbx_ael.c: AEL load process: merged config file name '/etc/asterisk/extensions.ael'.
+[2014-04-30 08:23:43] NOTICE[2573] pbx_ael.c: AEL load process: verified config file name '/etc/asterisk/extensions.ael'.
+[2014-04-30 08:23:43] VERBOSE[2573] asterisk.c: Asterisk Ready.

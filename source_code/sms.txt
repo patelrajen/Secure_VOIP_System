@@ -1,0 +1,19 @@
+/*sip.conf*/
+
+accept_outofcall_message=yes
+outofcall_message_context=sms 
+
+
+/*extensions.conf*/
+[sms] 
+exten => 7001,1,NoOp(SMS receiving dialplan invoked)
+exten => 7001,n,NoOp(To ${MESSAGE(to)})
+exten => 7001,n,NoOp(From ${MESSAGE(from)})
+exten => 7001,n,NoOp(Body ${MESSAGE(body)})
+exten => 7001,n,Set(ACTUALTO=${CUT(MESSAGE(to),@,1)})
+exten => 7001,n,MessageSend(${ACTUALTO},${MESSAGE(from)})
+exten => 7001,n,NoOp(Send status is ${MESSAGE_SEND_STATUS})
+exten => 7001,n,GotoIf($["${MESSAGE_SEND_STATUS}" != "SUCCESS"]?sendfailedmsg)
+exten => 7001,n,Hangup()
+
+

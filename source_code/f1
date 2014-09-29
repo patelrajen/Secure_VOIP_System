@@ -1,0 +1,3 @@
+/etc/init.d/iptables start
+/etc/init.d/fail2ban start
+iptables -L -v

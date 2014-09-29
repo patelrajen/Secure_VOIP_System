@@ -1,0 +1,26 @@
+To install Asterisk into a Linux machine, first, we need to install few dependencies :
+
+> DAHDI -- DAHDI (Digium/Asterisk Hardware Device Interface) is the open source device interface technology used to control Digium and other legacy telephony interface cards.
+Code to install DAHDI - 
+	$ tar zxvf dahdi-linux-complete*
+	$ cd /usr/src/dahdi-linux-complete*
+	$ make && make install && make config		
+to start DAHDI -
+	$ /etc/init.d/dahdi start
+ 
+> libpri -- LIBPRI is an open source library that encapsulates the protocols used to communicate over ISDN Primary Rate Interfaces.
+Code to install libpri -
+	$ tar zxvf libpri*
+	$ cd /usr/src/libpri*
+	$ make && make install
+
+
+After the dependencies are install, we install Asterisk server.
+Code to install Asterisk - 
+	$ tar zxvf asterisk*
+	$ cd /usr/src/asterisk*
+	$ ./configure && make menuselect && make && make install && make config && make samples
+
+to start Asterisk - 
+	$ /etc/init.d/asterisk start
+	$ asterisk -rvvv

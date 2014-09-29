@@ -1,0 +1,32 @@
+
+DEMO
+
+1)VoIP server start status
+
+2)how to add user to sevrer(all credentail details)
+
+3)extension configuration which establish call between client(unsecure manner)
+
+4)VoIP is so unsecure 
+
+	wireshark sniffing for call 
+	*audio capturing
+	
+	*Authentication 
+	response=MD%(hash1:nonce:hash2)
+	hash1=MD5(username:realm:password)
+        hash2=MD5(method:uri)
+
+Secure Voip Call 
+
+5)srtp imlementaion
+
+6)self signed certificate generation for ssl/tls(secure sip)
+
+7)Third party tool implemented to prevent brute force attack
+
+8)Geographically locatation restriction
+
+9)Log analysis intelligence(continued) 
+
+

@@ -1,0 +1,14 @@
+
+
+file name: etc/fail2ban/jail.conf
+
+[asterisk-iptables]
+
+enabled  = true
+filter   = asterisk
+action   = iptables-allports[name=ASTERISK, protocol=all]
+           sendmail-whois[name=ASTERISK, dest=client@mail.com, sender=voip_project@utdallas.edu]
+logpath  = /var/log/asterisk/messages
+maxretry = 5
+bantime = 259200
+
